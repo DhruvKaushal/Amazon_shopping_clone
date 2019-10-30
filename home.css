@@ -18,12 +18,11 @@ body{
     font-size: 30px;
 }
 
-#adv{
+.adv{
     width: 98%;
-    
     height: 300px;
     background-color: antiquewhite;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-bottom: 10px;
 }
