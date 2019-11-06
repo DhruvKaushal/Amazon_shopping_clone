@@ -18,6 +18,11 @@ body{
     font-size: 30px;
 }
 
+card_img {
+    height: 300px;
+    object-fit: cover;
+  }
+
 .adv{
     width: 98%;
     height: 300px;
